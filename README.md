@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning basic Python, basic SQL, more advanced data visualization in R (mainly ggplot and map applications) and Text analysis in R's Quanteda package.
 
-- 💞️ I’m looking to collaborate on nothing in particular at the moment. If you feel like I could contribute please reach out to me.
+- 💞️ I’m not looking to collaborate on anything in particular at the moment. If you feel like I could contribute then reach out to me.
 
 - 📫 I can be reached through my private e-mail: u.k.sundstroem@gmail.com
 
