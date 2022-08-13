@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kristoffer-Sundstroem, a PhD student in Economics at Luleå University of Technology.
 
-- 👀 I’m interested in developing skills in R, Python and Stata.
+- 👀 I’m interested in developing skills in R, Python and SQL.
 
-- 🌱 I’m currently learning basic Python, more advanced data visualization in R (mainly ggplot and map applications) and Text analysis in R's Quanteda package.
+- 🌱 I’m currently learning basic Python, basic SQL, more advanced data visualization in R (mainly ggplot and map applications) and Text analysis in R's Quanteda package.
 
 - 💞️ I’m looking to collaborate on nothing in particular at the moment. If you feel like I could contribute please reach out to me.
 
