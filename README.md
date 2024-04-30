@@ -1,7 +1,10 @@
-PhD Candidate.
-Environmental Economics.
-Environmental Policy & Regulation.
-Working in R and Stata.
+PhD Candidate. 🎓
+
+Environmental Economics. 🌿
+
+Environmental Policy & Regulation. 🏛
+
+Working in R and Stata. 💻
 
 <!---
 Kristoffer-Sundstroem/Kristoffer-Sundstroem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
