@@ -1,10 +1,12 @@
-PhD Candidate. 🎓
+My profile is currently getting an overhaul slowly but surely. I am moving some projects that has been stuck on local drives to GitHub and I will also move the datasets and code related to my research to GitHub in the near future.
 
-Environmental Economics. 🌿
+🎓 PhD Candidate.
 
-Environmental Policy & Regulation. 🏛
+🌿 Environmental Economics.
 
-Working in R and Stata. 💻
+⚖️ Environmental Permitting Processes. 
+
+🎮 Gamer and tech nerd.
 
 <!---
 Kristoffer-Sundstroem/Kristoffer-Sundstroem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
