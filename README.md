@@ -8,6 +8,8 @@
 
 🎮 Gamer and tech nerd.
 
+
+Find me on [<img alt="alt_text" width="40px" src="images/bluesky.PNG" />](https://bsky.app/profile/k-sundstroem.bsky.social)
 <!---
 Kristoffer-Sundstroem/Kristoffer-Sundstroem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
