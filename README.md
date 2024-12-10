@@ -6,7 +6,7 @@
 
 &#128205; Based in Luleå, Norrbotten, Sweden.
 
-&#128269; PhD Candidate in Economics with a research focus on environmental permitting processes.
+&#128269; PhD Candidate in Economics. Research focuses on environmental permitting processes.
 
 &#127793; Currently looking to get a deeper knowledge of R.
 
