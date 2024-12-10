@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img alt="alt_text" width="60px" src="images/bluesky_black_icon.png" />](https://bsky.app/profile/k-sundstroem.bsky.social)
+[<img alt="alt_text" width="40px" src="images/bluesky_black_icon.png" />](https://bsky.app/profile/k-sundstroem.bsky.social)
 
 ### Languages and Tools:
 <img alt="alt_text" width="40px" src="icons/r-original.svg" /> <img alt="alt_text" width="40px" src="icons/stata-original-wordmark.svg" /> <img alt="alt_text" width="40px" src="icons/postgresql-original.svg" /> <img alt="alt_text" width="40px" src="icons/github-original.svg" />
