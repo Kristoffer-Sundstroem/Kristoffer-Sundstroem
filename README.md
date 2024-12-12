@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-Social media links are coming.
+<img alt="alt_text" width="40px" src="icons/bluesky-original.svg" />
 
 ### Languages and Tools:
 <img alt="alt_text" width="40px" src="icons/r-original.svg" /> <img alt="alt_text" width="40px" src="icons/stata-original-wordmark.svg" /> <img alt="alt_text" width="40px" src="icons/postgresql-original.svg" /> <img alt="alt_text" width="40px" src="icons/github-original.svg" />
