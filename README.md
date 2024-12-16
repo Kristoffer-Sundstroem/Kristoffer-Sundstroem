@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img alt="alt_text" width="40px" src="icons/bluesky-original.png" />](https://bsky.app/profile/k-sundstroem.bsky.social) [<img alt="alt_text" width="40px" src="icons/LinkedIn-original.svg" />]([https://bsky.app/profile/k-sundstroem.bsky.social](https://www.linkedin.com/in/kristoffersundstroem/))
+[<img alt="alt_text" width="40px" src="icons/bluesky-original.png" />](https://bsky.app/profile/k-sundstroem.bsky.social) [<img alt="alt_text" width="40px" src="icons/LinkedIn-original.svg" />](https://www.linkedin.com/in/kristoffersundstroem/)
 
 ### Languages and Tools:
 <img alt="alt_text" width="40px" src="icons/r-original.svg" /> <img alt="alt_text" width="40px" src="icons/stata-original-wordmark.svg" /> <img alt="alt_text" width="35px" src="icons/postgresql-original.svg" /> <img alt="alt_text" width="40px" src="icons/github-original.svg" /> <img alt="alt_text" width="40px" src="icons/git-original.svg" />
