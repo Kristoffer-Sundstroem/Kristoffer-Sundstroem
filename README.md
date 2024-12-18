@@ -1,4 +1,4 @@
-#### My profile is currently getting an overhaul. I am moving some projects that has been stuck on local drives to GitHub and I will also move datasets and code related to my research to GitHub in the near future. My website is, therefore, not updated and do not reflect my current work.
+#### My profile is currently getting an overhaul. I am moving some projects that has been stuck on local drives to GitHub and I will also move datasets and code related to my research to GitHub in the near future.
 
 # Hello there, I am Kristoffer Sundström!
 
