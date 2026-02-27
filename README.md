@@ -6,11 +6,7 @@
 
 &#128205; Based in Luleå, Norrbotten, Sweden.
 
-&#128269; PhD Candidate in Economics. Research focuses on environmental permitting processes.
-
-&#127793; Currently looking to get a deeper knowledge of R.
-
-&#129349; 2025 goals: Finish my PhD and get my homelab up and running.
+&#128269; Economist specializing in environmental regulation and institutional analysis.
 
 ### Connect with me:
 
