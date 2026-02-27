@@ -1,9 +1,6 @@
 #### My profile is currently getting an overhaul. I am moving some projects that has been stuck on local drives to GitHub and I will also move datasets and code related to my research to GitHub in the near future.
 
 # Hello there, I am Kristoffer Sundström!
-
-## I'm an economist, tech nerd and an avid gamer.
-
 &#128205; Based in Luleå, Norrbotten, Sweden.
 
 &#128269; Economist specializing in environmental regulation and institutional analysis.
